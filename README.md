@@ -3,7 +3,7 @@
 
 ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
-###  My stack HTML • Docker • Rust • CSS • JavaScript • React • Webpack • TypeScript.
+### HTML • Docker • Rust • CSS • JavaScript • React • Webpack • TypeScript.
 
 
 <!--
