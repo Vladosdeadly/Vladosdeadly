@@ -1,4 +1,4 @@
-### Hello, I'm Vlad, I'm a language developer.
+### Hello, I'm Vladislav Trubachev, I'm a language developer.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rust+React+TypeScript)](https://git.io/typing-svg)
 
 ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
