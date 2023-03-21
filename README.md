@@ -3,7 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladosdeadly)] 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladosdeadly&theme=solarized_dark)
 
