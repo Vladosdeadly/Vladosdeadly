@@ -1,4 +1,5 @@
-### Hi i am Vlad my
+### Hello, I'm Vlad, I'm a language developer.
+HTML • Docker • Apache2 • Rust • CSS • JavaScript • React • Webpack • TypeScript
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
 <!--
