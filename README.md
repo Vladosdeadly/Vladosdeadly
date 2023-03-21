@@ -1,9 +1,9 @@
 ### Hello, I'm Vlad, I'm a language developer.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rust+React+TypeScript)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
+![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vladosdeadly&theme=solarized_dark)
+![Vladosdeadly](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vladosdeadly&theme=solarized_dark)
 
 My stack HTML • Docker • Rust • CSS • JavaScript • React • Webpack • TypeScript 
 
