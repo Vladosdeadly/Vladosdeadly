@@ -1,5 +1,5 @@
 ### Hi i am Vlad my
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **Vladosdeadly/Vladosdeadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
