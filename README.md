@@ -3,7 +3,7 @@
 
 ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs)
 
-<!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true) -->
+![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
 ### HTML • Docker • Rust • CSS • JavaScript • React • Webpack • TypeScript.
 
