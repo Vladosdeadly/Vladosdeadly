@@ -1,4 +1,4 @@
-### Hello, I'm Vladislav Trubachev, I'm a language developer.
+### Hello, I'm Vlados.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rust+TypeScript)](https://git.io/typing-svg)
 
 
