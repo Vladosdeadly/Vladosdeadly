@@ -1,6 +1,6 @@
 ### Hello, I'm Vlados.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rust+TypeScript+JS+Bash)](https://git.io/typing-svg)
-### HTML • Docker • Rust • CSS • JavaScript • React • Webpack • TypeScript.
+### HTML • Docker • Rust • JavaScript • React • Webpack • TypeScript.
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->
 
 
