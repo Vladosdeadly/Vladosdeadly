@@ -1,7 +1,8 @@
 ### Hello, I'm Vlados.
-<h4> 🤔 Programming and design are all mine, forgive me.</h4>
-<h5> 💬 Linux, Docker, Html, Ts, Js, React, Tailwind, baggage.</h5>
-<!-- [Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->
+<h3> 🤔 Programming and design are all mine, forgive me.</h3>
+<h4> 💬 Linux, Docker, Html, Ts, Js, React, Tailwind, baggage.</h4>
+
+![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs)
 
 
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)  -->⠀⠀⠀⠀
