@@ -1,6 +1,6 @@
 ### Hello, I'm Vlados.
 <h4>Programming and design are all mine, forgive me.</h4>
-<h5>linux, docker, html, ts, js, react, tailwind, baggage.</h5>
+<h5>Linux, Docker, Html, Ts, Js, React, Tailwind, baggage.</h5>
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->
 
 
