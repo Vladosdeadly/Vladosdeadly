@@ -1,4 +1,4 @@
-### Hello, I'm Vlados.
+### Hello, I'm Vlad.
 <h3> 🤔 Programming and design are all mine, forgive me.</h3>
 
 ### Works with. 
