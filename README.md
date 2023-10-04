@@ -1,5 +1,5 @@
 ### Hello, I'm Vlados.
-### Programming and design are all mine, forgive me.
+<h3>Programming and design are all mine, forgive me.</h3>
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->
 
 
