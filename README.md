@@ -1,5 +1,5 @@
 ### Hello, I'm Vlados.
-### HTML • Docker • Rust • JavaScript • React • Webpack • TypeScript
+### Programming and design are all mine, forgive me.
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->
 
 
