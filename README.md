@@ -1,8 +1,8 @@
 ### Hi, I'm Vlad.
-<h4> 🤔 Programming and design are all mine, forgive me.</h4>
+<h4> 🤔 I not only like frontend development, but I also really love design.</h4>
 
 ### Works with:  
-<h4> 💬 ⚡ Linux, Docker, Html, Ts, Js, React, Tailwind, baggage.</h4>
+<h4> 💬 ⚡ Linux, Docker, Html, Ts, Js, React, Tailwind, bootstrap, baggage.</h4>
 
 
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->⠀
