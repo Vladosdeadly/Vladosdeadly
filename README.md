@@ -1,6 +1,6 @@
 ### Hi, I'm Vlad.
 ### Works with:  
-<h4> 💬 ⚡ Linux, Docker, Html, Ts, Js, React, Tailwind, bootstrap, baggage.</h4>
+<h4> 💬 ⚡ Linux, Docker, Ts, Js, React, Tailwind, bootstrap, baggage.</h4>
 
 
 <!-- ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&hide=contribs,prs) -->⠀
