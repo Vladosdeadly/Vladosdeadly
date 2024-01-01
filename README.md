@@ -1,4 +1,4 @@
-### Hi, I'm Vlad.
+### Hi, I'm Vlad. Happy New Year Happy New Year Happy New Year
 ### Works with:  
 <h4> 💬 ⚡ Linux, Docker, TypeScript, JavaScript, React, Tailwind, bootstrap, baggage.</h4>
 
