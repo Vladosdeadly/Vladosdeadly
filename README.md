@@ -1,8 +1,7 @@
 ### Hi, I'm Vlad. || Happy New Year Happy New Year Happy New Year ||
 ### Works with:  
 <h4> 💬 ⚡ Linux, Docker, TypeScript, JavaScript, React, Tailwind, bootstrap, baggage.</h4>
-⠀⠀
-[![GitHub Streak](https://streak-stats.demolab.com?user=vladosdeadly&theme=dark)](https://git.io/streak-stats)⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀
 <!--
 **Vladosdeadly/Vladosdeadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
