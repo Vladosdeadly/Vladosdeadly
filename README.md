@@ -4,4 +4,4 @@
 
 ![Vlados GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladosdeadly&show_icons=true&theme=radical&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vladosdeadly&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vladosdeadly&theme=radical&card_width=467)](https://git.io/streak-stats)
